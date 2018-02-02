@@ -1,0 +1,4 @@
+:- dynamic exemplar/9.
+
+exemplar(0, a, sdasd, asd, dasda, asdasd, asdasd, asdas, asdasd).
+
